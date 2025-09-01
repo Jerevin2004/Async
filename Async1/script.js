@@ -1,6 +1,6 @@
 //part 1
 
-concole.log("First message");
+console.log("First message");
 
 setTimeout(()=> {
     console.log ("Second message (after 2)");
